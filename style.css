@@ -1,0 +1,17 @@
+body{
+    background:#15917c(211, 64, 145);
+}
+.loginform{
+   background-color: aliceblue;
+   width: 400px;
+   padding: 50px;
+   overflow: hidden;
+}
+.registera{
+    color: #15917c;
+    text-decoration:none;
+}
+.register{
+    text-align:center;
+    font-size: 15px;
+}
